@@ -1,6 +1,4 @@
 public class Buku {
-
-    //object
     public String judul;
     public String[] penulis;
     public String id;
